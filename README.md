@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Prajjval001
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning react js
-- 💞️ I’m looking to collaborate on project named techdevelopers
+- 🌱 I’m currently working on Full Stack Project.
 - 📫 How to reach me -mail at @prajjvalverma29@gmail.com
 
 <!---
