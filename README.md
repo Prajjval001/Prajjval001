@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Prajjval001
-- 👀 I’m interested in coding.
-- 🌱 I’m currently working on Full Stack Project.
+This is some Geek Boi trying things out and creating some beautiful websites and softwares, and some times messing up it too, but finally giving exceptional results.
 - 📫 How to reach me -mail at @prajjvalverma29@gmail.com
 
 <!---
