@@ -1,4 +1,5 @@
-This is some Geek Boi trying things out and creating some beautiful websites and softwares, and some times messing up it too, but finally giving exceptional results.
+Skilled in Data Analysis,Databases, Web Development and Cloud Structures and exploring more and more day by day to learn and work on the new interesting technology and applications to built new solutions.
+
 - 📫 How to reach me -mail at @prajjvalverma29@gmail.com
 
 <!---
